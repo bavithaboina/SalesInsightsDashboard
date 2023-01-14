@@ -28,9 +28,10 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 4. [NovyPro Account](https://www.novypro.com/)  --for publishing PowerBI dashboard online
 
 ### DATA MODEL:
-<p align="center">
-  <img width="600" height="200" src="[https://www.python.org/python-.png](https://user-images.githubusercontent.com/94373476/212471424-78799a2f-42dd-4fe8-803a-7f44f9d10e47.png)">
-</p>
+<div style="display:table-cell; vertical-align:middle; text-align:center">
+<img src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/AimsGrid.png">
+</div>
+
 ![Sales_Insights_DataModel](https://user-images.githubusercontent.com/94373476/212471424-78799a2f-42dd-4fe8-803a-7f44f9d10e47.png)
 
 
