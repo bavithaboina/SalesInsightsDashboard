@@ -39,7 +39,8 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 ## FINAL RESULT
 
 ### INITIAL DASHBOARD
-inital_sales_inisghts_dahsboard.png
+![inital_sales_inisghts_dahsboard](https://user-images.githubusercontent.com/94373476/212470716-d45797fb-abda-4664-86d1-86b2b1f42538.png)
 
 ### FINAL DASHBOARD 
+
 gif
