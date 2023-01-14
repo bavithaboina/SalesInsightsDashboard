@@ -51,13 +51,15 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 
 ## FINAL RESULT
 
-
 ### INITIAL DASHBOARD
 <div align="center">
 <img height:"100" width:"100" src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/inital_sales_inisghts_dahsboard.png">
 </div>
+
 ### FINAL DASHBOARD 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Microsoft-Power-BI-Google-Chrome.gif)" width="50" height="50" />
+<div align="center">
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Microsoft-Power-BI-Google-Chrome.gif)" width="100" height="100" />
+</div>
 
 
 
