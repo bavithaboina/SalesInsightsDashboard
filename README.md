@@ -57,5 +57,5 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 </div>
 ### FINAL DASHBOARD 
 <div align="center">
-<video src='https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Microsoft-Power-BI-Google-Chrome.gif' height:"100" width:"100"/>
+<video src='https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Microsoft-Power-BI-Google-Chrome.gif'/>
 </div>
