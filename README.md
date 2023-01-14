@@ -25,6 +25,10 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 3. [PowerBI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 4. [NovyPro Account](https://www.novypro.com/)  --for publishing PowerBI dashboard online
 
+### DATA MODEL:
+![Sales_Insights_DataModel](https://user-images.githubusercontent.com/94373476/212471424-78799a2f-42dd-4fe8-803a-7f44f9d10e47.png)
+
+
 ### Steps followed in this project:
 1.	Performed basic analysis of data using SQL queries and observed the following
     *	The sales amount is in two different currencies INR and USD. It has to be converted to one currency either INR or USD so that we can analyse the data
