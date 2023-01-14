@@ -16,8 +16,8 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 
 ### AIMS Grid
 
-<div style="display:table-cell; vertical-align:middle; text-align:center height:100px width:100px">
-<img src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/AimsGrid.png">
+<div align="center">
+<img height:"100" width:"100" src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/AimsGrid.png">
 </div>
 
 ### DATA MODEL
@@ -30,8 +30,8 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 4. [NovyPro Account](https://www.novypro.com/)  --for publishing PowerBI dashboard online
 
 ### DATA MODEL:
-<div style="display:table-cell; vertical-align:middle; text-align:center height:100px width:100px">
-<img src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Sales_Insights_DataModel.png">
+<div align="center" >
+<img height:"100" width:"100" src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Sales_Insights_DataModel.png">
 </div>
 
 
@@ -53,8 +53,8 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 ## FINAL RESULT
 
 ### INITIAL DASHBOARD
-<div style="display:table-cell; vertical-align:middle; text-align:center height:100px width:100px">
-<img src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/inital_sales_inisghts_dahsboard.png">
+<div align="center">
+<img height:"100" width:"100" src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/inital_sales_inisghts_dahsboard.png">
 </div>
 ### FINAL DASHBOARD 
 
