@@ -36,18 +36,17 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 
 
 ### Steps followed in this project:
-1.	Performed basic analysis of data using SQL queries and observed the following
-    *	The sales amount is in two different currencies INR and USD. It has to be converted to one currency either INR or USD so that we can analyse the data
-    *	The data belongs to 2017,2018,2019 and 2020 
-    * 	Sales amount can’t be negative let’s find if there are any records with negative sales amounts.
-2.	Connected the SQL data to PowerBI 
-3.	Performed ETL and data cleaning on the imported data
+1. Performed basic analysis of data using SQL queries and observed the following
+    *   The sales amount is in two different currencies INR and USD. It has to be converted to one currency either INR or USD so that we can analyse the data
+    *   The data belongs to 2017,2018,2019 and 2020
+    *   Sales amount can’t be negative let’s find if there are any records with negative sales amounts.
+2. Connected the SQL data to PowerBI
+3. Performed ETL and data cleaning on the imported data
     *   Removed irrelevant data like rows where sales amount is 0 or negative.
     *   removed other countries as we are looking for sales insight in India.
-    *	Converted the sales amount to a single currency (INR)
-4.	Created measures like Revenue, Total Profit Margin, Profit %,Profit Contribution %,Revenue Contribution % for creating graphs and KPI’s
-5.	After the initial report reviewed by stakeholders made further changes based on their feedback
-
+    *   Converted the sales amount to a single currency (INR)
+4. Created measures like Revenue, Total Profit Margin, Profit %,Profit Contribution %,Revenue Contribution % for creating graphs and KPI’s
+5. After the initial report reviewed by stakeholders made further changes based on their feedback
 
 ## FINAL RESULT
 
