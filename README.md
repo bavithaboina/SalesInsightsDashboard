@@ -1,7 +1,7 @@
 ATLIQ Hardware Sales Insights PowerBI Dashboard
 # ATLIQ Hardware Sales Insights PowerBI Dashboard
 ### INTRODUCTION:
-This is a project I replicated from ** Codebasics ** PowerBI Youtube playlist.I ahve also taken the help of ** End to End ** Power BI Project Series.You can find the links of the playlists below.
+This is a project I replicated from  Codebasics  PowerBI Youtube playlist.I have also taken the help of  End to End  Power BI Project Series.You can find the links of the playlists below.
 
 [Codebasics youtube playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 [End to End Power BI Project Series](https://www.youtube.com/playlist?list=PLI0saxAvhd_MSvNrl1F70cJKIlwolI2DO)
