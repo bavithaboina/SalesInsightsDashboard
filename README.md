@@ -15,7 +15,8 @@ The Sales Director of Atliq Hardware, a firm with multiple branches across India
 Sales director decided to hire a group of analysts to build interactive PowerBI dashboards so that he can track sales to stay informed about the performance of the company and identify any potential issues or areas for improvement
 
 ### AIMS Grid
-aims grid image
+
+![AimsGrid](https://user-images.githubusercontent.com/94373476/212470596-fa5eba7e-1c36-4bb8-8b8b-cd1498592473.png)
 
 ### SOFTWARE AND TOOLS REQUIRED:
 
