@@ -36,6 +36,7 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 5.	Created measures like Revenue, Total Profit Margin, Profit %,Profit Contribution %,Revenue Contribution % for creating graphs and KPI’s
 6.	After the initial report reviewed by stakeholders made further changes based on their feedback
 
+
 ## FINAL RESULT
 
 ### INITIAL DASHBOARD
@@ -43,5 +44,4 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 
 ### FINAL DASHBOARD 
 
-gif![Microsoft Power BI - Google Chrome 2023-01-14 17-19-34](https://user-images.githubusercontent.com/94373476/212470935-3b0a0f4a-0314-4e4e-aa48-80837eadbcca.gif)
-
+![Microsoft_Power_BI_-_Google_Chrome_2023-01-14_17-19-34_AdobeExpress](https://user-images.githubusercontent.com/94373476/212471210-39816b24-3e1c-4cd9-8a49-f90bf632bef9.gif)
