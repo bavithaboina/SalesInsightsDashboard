@@ -43,4 +43,5 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 
 ### FINAL DASHBOARD 
 
-gif
+gif![Microsoft Power BI - Google Chrome 2023-01-14 17-19-34](https://user-images.githubusercontent.com/94373476/212470935-3b0a0f4a-0314-4e4e-aa48-80837eadbcca.gif)
+
