@@ -58,4 +58,6 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 </div>
 ### FINAL DASHBOARD 
 
-![Microsoft_Power_BI_-_Google_Chrome_2023-01-14_17-19-34_AdobeExpress](https://user-images.githubusercontent.com/94373476/212471210-39816b24-3e1c-4cd9-8a49-f90bf632bef9.gif)
+<div align="center">
+<video src='your URL here'height:"100" width:"100"/>
+</div>
