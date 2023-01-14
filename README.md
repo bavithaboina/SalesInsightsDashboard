@@ -15,7 +15,8 @@ The Sales Director of Atliq Hardware, a firm with multiple branches across India
 Sales director decided to hire a group of analysts to build interactive PowerBI dashboards so that he can track sales to stay informed about the performance of the company and identify any potential issues or areas for improvement
 
 ### AIMS Grid
-aims grid image
+
+![AimsGrid](https://user-images.githubusercontent.com/94373476/212470596-fa5eba7e-1c36-4bb8-8b8b-cd1498592473.png)
 
 ### DATA MODEL
 
@@ -25,6 +26,13 @@ aims grid image
 2. [MYSQL](https://www.mysql.com/downloads/)
 3. [PowerBI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 4. [NovyPro Account](https://www.novypro.com/)  --for publishing PowerBI dashboard online
+
+### DATA MODEL:
+<p align="center">
+  <img width="600" height="200" src="[https://www.python.org/python-.png](https://user-images.githubusercontent.com/94373476/212471424-78799a2f-42dd-4fe8-803a-7f44f9d10e47.png)">
+</p>
+![Sales_Insights_DataModel](https://user-images.githubusercontent.com/94373476/212471424-78799a2f-42dd-4fe8-803a-7f44f9d10e47.png)
+
 
 ### Steps followed in this project:
 1.	Performed basic analysis of data using SQL queries and observed the following
@@ -39,10 +47,12 @@ aims grid image
 4.	Created measures like Revenue, Total Profit Margin, Profit %,Profit Contribution %,Revenue Contribution % for creating graphs and KPI’s
 5.	After the initial report reviewed by stakeholders made further changes based on their feedback
 
+
 ## FINAL RESULT
 
 ### INITIAL DASHBOARD
-inital_sales_inisghts_dahsboard.png
+![inital_sales_inisghts_dahsboard](https://user-images.githubusercontent.com/94373476/212470716-d45797fb-abda-4664-86d1-86b2b1f42538.png)
 
 ### FINAL DASHBOARD 
-gif
+
+![Microsoft_Power_BI_-_Google_Chrome_2023-01-14_17-19-34_AdobeExpress](https://user-images.githubusercontent.com/94373476/212471210-39816b24-3e1c-4cd9-8a49-f90bf632bef9.gif)
