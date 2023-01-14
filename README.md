@@ -17,6 +17,8 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 ### AIMS Grid
 aims grid image
 
+### DATA MODEL
+
 ### SOFTWARE AND TOOLS REQUIRED:
 
 1. [Github Account](https://github.com)
@@ -31,9 +33,11 @@ aims grid image
     * 	Sales amount can’t be negative let’s find if there are any records with negative sales amounts.
 2.	Connected the SQL data to PowerBI 
 3.	Performed ETL and data cleaning on the imported data
-4.	Converted the sales amount to a single currency (INR)
-5.	Created measures like Revenue, Total Profit Margin, Profit %,Profit Contribution %,Revenue Contribution % for creating graphs and KPI’s
-6.	After the initial report reviewed by stakeholders made further changes based on their feedback
+    *   Removed irrelevant data like rows where sales amount is 0 or negative.
+    *   removed other countries as we are looking for sales insight in India.
+    *	Converted the sales amount to a single currency (INR)
+4.	Created measures like Revenue, Total Profit Margin, Profit %,Profit Contribution %,Revenue Contribution % for creating graphs and KPI’s
+5.	After the initial report reviewed by stakeholders made further changes based on their feedback
 
 ## FINAL RESULT
 
