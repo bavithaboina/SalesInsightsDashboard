@@ -5,6 +5,7 @@ ATLIQ Hardware Sales Insights PowerBI Dashboard
 I recently completed this project utilizing PowerBI, which was modeled after the tutorials provided by Codebasics in their PowerBI YouTube playlist and supplemented with guidance from the End to End Power BI Project Series. This project allowed me to gain a deeper understanding of PowerBI and its capabilities.
 
 [Codebasics youtube playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+
 [End to End Power BI Project Series](https://www.youtube.com/playlist?list=PLI0saxAvhd_MSvNrl1F70cJKIlwolI2DO)
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMmJmMzRjYjgtOTZhNy00ZGVkLTg2YjEtZTY0MDcxMDM3ZGRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection40e6fb4b5493ba29ec91)
