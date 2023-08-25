@@ -22,8 +22,6 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 <img height:"75" width:"75" src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/AimsGrid.png">
 </div>
 
-### DATA MODEL
-
 ### SOFTWARE AND TOOLS REQUIRED:
 
 1. [Github Account](https://github.com)
